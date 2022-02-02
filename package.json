@@ -1,0 +1,17 @@
+{
+  "name": "dolphin-team-calls",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "array-random-item": "^1.0.2",
+    "md5": "^2.3.0",
+    "shuffle-array": "^1.0.1"
+  }
+}
