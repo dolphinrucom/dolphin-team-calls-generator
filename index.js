@@ -1,7 +1,7 @@
 const fs = require('fs');
 const shuffleArray = require('shuffle-array');
 const arrayRandomElement = require('array-random-item');
-const HOW_MUCH = 2;
+const HOW_MUCH = 4;
 
 const employees = shuffleArray(
   fs
